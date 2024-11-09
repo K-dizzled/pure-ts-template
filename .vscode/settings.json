@@ -1,0 +1,6 @@
+{
+    "typescript.tsc.autoDetect": "off",
+    "eslint.options": {
+        "experimentalDecorators": true
+    }
+}
